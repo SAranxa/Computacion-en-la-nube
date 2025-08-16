@@ -1,3 +1,3 @@
 # Computación en la nube
 
-Primer repositorio desarrollo de proyectos actividad 1
+Primer repositorio ambiente de trabajo Parte B
